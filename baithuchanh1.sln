@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bai1", "bai1", "{24DCC57C-501D-41B5-9EC4-14E47EBF4D7B}"
+	ProjectSection(SolutionItems) = preProject
+		bai1.cs = bai1.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bai2", "bai2", "{53017F80-5A83-4E3B-BA81-8E153244EA1D}"
+	ProjectSection(SolutionItems) = preProject
+		bai2.cs = bai2.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bai3", "bai3", "{E44C1B75-9823-44D5-8932-D6EEE887ED26}"
+	ProjectSection(SolutionItems) = preProject
+		bai3.cs = bai3.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bai4", "bai4", "{28DD0661-2BEA-4D07-B130-13B67ABF59CB}"
+	ProjectSection(SolutionItems) = preProject
+		bai4.cs = bai4.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bai5", "bai5", "{2A84AE0E-0984-4328-8BDB-6F6CD5A05FCD}"
+	ProjectSection(SolutionItems) = preProject
+		bai5.cs = bai5.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5416A36-63BB-4BEE-A4D6-0AD573574940}
+	EndGlobalSection
+EndGlobal
